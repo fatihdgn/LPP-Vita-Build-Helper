@@ -1,5 +1,5 @@
 # LPP-Vita Build Helper
-A tiny bit smarter build command file with configurable settings for the [@Rinnegatamante](https://github.com/Rinnegatamante)'s [Lua Player Plus (lpp-vita)](https://github.com/Rinnegatamante/lpp-vita) builder (lpp-builder).
+A tiny bit smarter build command file with configurable settings for the [@Rinnegatamante](https://github.com/Rinnegatamante)'s [Lua Player Plus for PS Vita (lpp-vita)](https://github.com/Rinnegatamante/lpp-vita) builder (lpp-builder).
 
 ## Usage
 
